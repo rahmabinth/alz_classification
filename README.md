@@ -12,6 +12,6 @@ The repo is structured as:
 ".
 -   `data/02-prediction_data` contains the prediction data for the Kaggle submission.
 -   `model` contains the finalized svm model. 
--   `paper` contains the files used to generate the paper, including the Quarto document and reference bibliography file, as well as the PDF of the paper. 
+-   `report` contains the files used to generate the report, including the Quarto document and reference bibliography file, as well as the PDF of the report. 
 -   `scripts` contains the R scripts used to process, clean, and model data.
 
